@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Farhan Ahmed Anik
-
 ## 📊 GitHub Stats
 
 <div align="center">
