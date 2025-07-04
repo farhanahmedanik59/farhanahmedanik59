@@ -1,11 +1,4 @@
-
-<!--
-**farhanahmedanik59/farhanahmedanik59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 👋 Hi, I'm Farhan Ahmed Anik
+# 👋 Hi, I'm Farhan Ahmed Anik
 
 Welcome to my GitHub! I'm passionate about technology, building cool stuff, and continuously learning new things.
 
@@ -54,16 +47,9 @@ Welcome to my GitHub! I'm passionate about technology, building cool stuff, and 
 ## 📬 Reach Me
 
 If you'd like to connect, discuss tech, or collaborate:
-📧 Email: *[anikianiki21@gmail.com]*  
+📧 Email: *[your-email-here]*  
 💬 Message me on [Facebook](https://facebook.com/farhanahmedanik59) or [LinkedIn](https://linkedin.com/in/farhanahmedanik59)
 
 ---
 
 Thanks for visiting! 🚀
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
