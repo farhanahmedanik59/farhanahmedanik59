@@ -1,23 +1,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
   <table>
     <tr>
-      <td align="center" style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs,issues"/>
-      </td>
-      <td align="center" style="width: 50%;">
+      <td align="center" style="width: 100%;">
         <b>🔁 Total Contributions:</b><br/>
         <b>429</b><br/>
         <i>May 19, 2023 - Present</i><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs,issues"/>
       </td>
     </tr>
   </table>
 
 </div>
 
----
 
 ## 🛠️ Current Tech Stack
 
