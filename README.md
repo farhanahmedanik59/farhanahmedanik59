@@ -5,21 +5,12 @@
   <table>
     <tr>
       <td align="center" style="width: 50%;">
-        <b>🌟 Total Stars Earned:</b> 4<br/>
-        <b>🕒 Total Commits (2025):</b> 21<br/>
-        <b>🔗 Total PRs:</b> 0<br/>
-        <b>🐛 Total Issues:</b> 0<br/>
-        <b>🧑‍💻 Contributed to (last year):</b> 0<br/><br/>
         <img src="https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs,issues"/>
       </td>
       <td align="center" style="width: 50%;">
         <b>🔁 Total Contributions:</b><br/>
         <b>429</b><br/>
         <i>May 19, 2023 - Present</i><br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanahmedanik59&theme=tokyonight&hide_border=true"/>
-        <br/>
-        <b>🔥 Current Streak:</b> 4 days (Jun 30 - Jul 3)<br/>
-        <b>🏆 Longest Streak:</b> 30 days (Feb 13 - Mar 14)
       </td>
     </tr>
   </table>
