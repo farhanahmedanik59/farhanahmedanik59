@@ -6,7 +6,8 @@
   
   <br/><br/>
   
-  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=farhanahmedanik59&theme=tokyonight)
+  ![GitHub Contributions](https://github.com/users/farhanahmedanik59/contributions)
+
 
 </div>
 
