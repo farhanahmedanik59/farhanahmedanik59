@@ -2,14 +2,16 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs,issues" />
-  
-  <br/><br/>
-  
-  ![GitHub Contributions](https://github.com/users/farhanahmedanik59/contributions)
+  <!-- Main GitHub Stats card -->
+  ![Farhan Ahmed Anik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=radical&count_private=true)
 
+  <br/><br/>
+
+  <!-- Additional stats card: Top Languages -->
+  ![Farhan Ahmed Anik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanahmedanik59&layout=compact&theme=radical)
 
 </div>
+
 
 ## 🛠️ Current Tech Stack
 
