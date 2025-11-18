@@ -62,11 +62,11 @@
 
 ---
 
-## 🚀 Projects & Portfolio
+## 🚀 Projects 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/farhanahmedanik59)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/farhanahmedanik59?tab=repositories)
 
 </div>
 
