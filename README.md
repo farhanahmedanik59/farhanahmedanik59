@@ -19,7 +19,7 @@
 
 <!-- GitHub Stats Card -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=radical&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=tokyonight&hide_border=true" height="200" 
   height="200"
   alt="GitHub Stats"
 />
@@ -30,7 +30,7 @@
 
 <!-- All Languages Horizontal Bar -->
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanahmedanik59&theme=radical&hide_title=true&card_type=horizontal-bar" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanahmedanik59&theme=tokyonight&hide_title=true&card_type=horizontal-bar" 
   height="200"
   alt="All Languages Used"
 />
