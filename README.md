@@ -1,46 +1,50 @@
-👋 Hi, I'm **Farhan Ahmed Anik**
+# 👋 Hi, I'm Farhan Ahmed Anik
+
+<div align="center">
+
+✨ **Full-Stack MERN Developer | React & Node.js Enthusiast | Building Modern Web Apps** ✨  
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
-<!-- Summary Card -->
 <div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanahmedanik59&theme=radical" 
-    width="100%"
-  />
-</div>
 
-<br/>
-
-<!-- Stats + Bar Chart -->
-<table align="center">
+<table>
 <tr>
+
 <td>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Card -->
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhanahmedanik59&theme=radical" 
+  src="https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=radical&hide_border=true" 
   height="200"
+  alt="GitHub Stats"
 />
 
 </td>
+
 <td>
 
-<!-- Bar Chart: Languages Used (by repo count) -->
+<!-- All Languages Horizontal Bar -->
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanahmedanik59&theme=radical" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhanahmedanik59&theme=radical&hide_title=true&card_type=horizontal-bar" 
   height="200"
+  alt="All Languages Used"
 />
 
 </td>
+
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🛠️ Current Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -49,29 +53,39 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
+
+---
+
+## 🚀 Projects & Portfolio
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge&logo=github)](https://github.com/farhanahmedanik59)
 
 </div>
 
 ---
 
-## 📫 Reach Me
+## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://facebook.com/farhanahmedanik59" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/farhanahmedanik59" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<a href="https://linkedin.com/in/farhanahmedanik59" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://facebook.com/farhanahmedanik59" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="mailto:farhanahmedanik59@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
