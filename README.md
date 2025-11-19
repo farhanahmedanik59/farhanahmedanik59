@@ -1,4 +1,14 @@
 # 👋 Hi, I'm Farhan Ahmed Anik
+<p align="center">
+  <img src="https://i.ibb.co.com/hRbggGpq/202650321-7f4da361-f98f-4345-8df4-adf352a113221-ezgif-com-resize-1.gif" alt="coding animation" width="100%" />
+</p>
+<div align="center">
+  <img src="animated_banner.gif" alt="Animated Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Farhan+Ahmed+Anik;Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;I+build+modern+web+applications" alt="Typing SVG" />
+</div>
 
 <div align="center">
 
