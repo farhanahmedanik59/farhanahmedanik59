@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Farhan Ahmed Anik
 
-<div align="center">
-  <img src="animated_banner.gif" alt="Animated Banner" />
-</div>
+![Banner](./github-header-banner.png)
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Farhan+Ahmed+Anik;Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;I+build+modern+web+applications" alt="Typing SVG" />
