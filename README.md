@@ -15,41 +15,12 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats 
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=farhanahmedanik59&theme=radical&hide_border=true" />
+</p>
 
-<table>
-<tr>
-
-<td>
-
-<!-- GitHub Stats Card -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=farhanahmedanik59&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="200"
-  alt="GitHub Stats"
-/>
-
-</td>
-
-<td>
-
-<!-- All Languages Horizontal Bar -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanahmedanik59&layout=compact&theme=tokyonight" 
-  height="200"
-  alt="All Languages Used"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
